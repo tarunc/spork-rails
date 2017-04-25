@@ -2,8 +2,8 @@ source 'https://rubygems.org'
 gemspec
 # rails is required by the gemspec
 
-gem 'cucumber', '~>1.3.2'
-gem 'rspec', '~>2.13.0'
+gem 'cucumber', '~>2.4.0'
+gem 'rspec', '~>3.5.0'
 gem 'rake'
 gem 'spork', '>= 1.0rc0'
 gem "spork-rails", :path => "./"
